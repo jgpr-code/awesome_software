@@ -1,4 +1,28 @@
 # awesome_software
-collection of awesome software
 
-Content soon!
+Collection of awesome software shared at #SWEC25
+
+- [Czkawka](https://github.com/qarmin/czkawka)
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [Ultra Wide Screen Share 2.0](https://apps.microsoft.com/detail/9p6j8n3k7tk4?hl=en-US&gl=US)
+- [npm madge](https://www.npmjs.com/package/madge)
+- [WinDirStat](https://windirstat.net/)
+- [Dust](https://github.com/bootandy/dust)
+- [Filelight](https://apps.kde.org/filelight/)
+- [Tortoise Git](https://tortoisegit.org/)
+- [Scoop.sh](https://scoop.sh/)
+- [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+- [Chocolatey](https://chocolatey.org/)
+- [lazygit](https://github.com/jesseduffield/lazygit)
+- [pay-respects](https://github.com/iffse/pay-respects)
+- [whatthecommit](https://whatthecommit.com/)
+- [NormCap](https://dynobo.github.io/normcap/)
+- [Greenshot](https://getgreenshot.org/)
+- [ShareX](https://getsharex.com/)
+- [ScreenToGif](https://www.screentogif.com/)
+- [AntennaPod](https://github.com/AntennaPod)
+- [git-gone](https://crates.io/crates/git-gone)
+- [dragon](https://github.com/mwh/dragon)
+- [fuzzpak](https://gitlab.com/slackermedia/fuzzpak)
+- [pet](https://github.com/knqyf263/pet)
+- [presenterm](https://github.com/mfontanini/presenterm)
